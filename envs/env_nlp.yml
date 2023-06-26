@@ -1,0 +1,9 @@
+name: <myenv>
+    dependencies:
+    - python=3.x
+    - pip
+    - pip:
+        - ipykernel
+        - spacy
+        - scattertext
+        - pandas
