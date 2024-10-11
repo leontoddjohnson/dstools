@@ -4,5 +4,5 @@ dependencies:
   - pip
   - pip:
     - ipykernel
-    - dash
     - pandas
+    - seaborn
